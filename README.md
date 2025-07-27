@@ -1,5 +1,3 @@
-Certainly! Below is a **README.md** text draft tailored for your Smart Banking Conversational AI project repository. It includes project overview, setup instructions, usage examples, and sections for attaching documentation files.
-
 # Smart Banking Conversational AI
 
 A modular conversational AI designed for banking services, providing secure multi-turn interactions for loan applications, card blocking, mini statements, and banking knowledge queries with mock API backend and session/state management.
@@ -77,9 +75,4 @@ SmartBankAI/
 ```
 
 ## Documentation
-
-Detailed design and architecture documentation is provided in the `docs/` folder:
-
-- `Architecture_Design.md` (or `.pdf`) — System architecture, flow design, context management, decision logic, and limitations.
-
-Please refer to it for comprehensive understanding and deployment guidance.
+https://github.com/ashittis/hsbcchatbot/blob/main/hsbc.pdf
