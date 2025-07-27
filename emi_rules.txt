@@ -1,0 +1,1 @@
+EMI is calculated using the reducing balance method. The formula is EMI = [P × R × (1+R)^N]/[(1+R)^N-1] where P = principal, R = rate/12, and N = tenure in months.
